@@ -1,2 +1,2 @@
-# SirMikeD.github.io
-Homework and Assignments live
+# Projects-and-Homework
+Projects and Homework assigned by the coding bootcamp
