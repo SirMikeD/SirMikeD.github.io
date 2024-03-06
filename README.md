@@ -38,7 +38,7 @@ May be updated with future requests.
     *Demo link: https://sirmiked.github.io
 
 #Screenshot
-md[Photo of website mockup](.\assets\images\Screenshot.jpg)
+[Photo of website mockup](.\assets\images\Screenshot.png)
 
 #Changes
     1. Condensted Code
