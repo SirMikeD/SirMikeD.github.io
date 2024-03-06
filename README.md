@@ -1,4 +1,4 @@
-Assignment 1 - Horiseon landing page
+##Assignment 1 - Horiseon landing page
 
 #Description
 -This landing page gives Horiseon (Client) a good intro to their website.
@@ -38,7 +38,7 @@ May be updated with future requests.
     *Demo link: https://sirmiked.github.io
 
 #Screenshot
-[Photo of website mockup](.\assets\images\Screenshot.png)
+![Screenshot of website mockup](./assets/images/Screenshot.png)
 
 #Changes
     1. Condensted Code
