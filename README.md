@@ -34,5 +34,13 @@ Page completed as per instructions given. Pending review.
 May be updated with future requests.
 
 #links:
-Repo location: https://github.com/SirMikeD/SirMikeD.github.io
-Demo link: https://sirmiked.github.io
+    *Repo location: https://github.com/SirMikeD/SirMikeD.github.io
+    *Demo link: https://sirmiked.github.io
+
+#Screenshot
+md[Photo of website mockup](.\assets\images\Screenshot.jpg)
+
+#Changes
+    1. Condensted Code
+    2. Changed formating
+    3. Deplyed to github.io
