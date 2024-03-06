@@ -32,3 +32,7 @@ Shareware
 #Project status
 Page completed as per instructions given. Pending review.
 May be updated with future requests.
+
+#links:
+Repo location: https://github.com/SirMikeD/SirMikeD.github.io
+Demo link: https://sirmiked.github.io

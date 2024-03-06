@@ -109,7 +109,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/*The code below is where the middle part of the code decorations are*/
 .search-engine-optimization, .online-reputation-management, .social-media-marketing{
     margin-bottom: 20px;
     padding: 50px;
@@ -138,4 +138,4 @@ p {
 
 .footer h4 {
     font-size: 17px;
-}==
+}
