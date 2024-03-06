@@ -23,8 +23,7 @@ body {
 
 .header h1 .seo {
     color: #dedfd5;
-    text-shadow: 2px 2px #98aa2f;
-    
+    text-shadow: 2px 2px 5px #40959b;
 }
 
 .header div {
@@ -127,7 +126,6 @@ p {
     font-size: 36px;
 }
 
-
 .footer {
     padding: 30px;
     clear: both;
@@ -138,10 +136,4 @@ p {
 
 .footer h4 {
     font-size: 17px;
-}
-
-#wrapper {
-    margin-left:auto;
-    margin-right:auto;
-    width:1080px;
 }
