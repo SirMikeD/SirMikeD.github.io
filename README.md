@@ -20,9 +20,6 @@ Current known issues: <br>
 # Roadmap
 Add functionality and pages.
 
-# Contributing
-
-
 # Authors and acknowledgment
 University of Toronto for documentation and pictures provided.
 
@@ -30,12 +27,12 @@ University of Toronto for documentation and pictures provided.
 Shareware
 
 # Project status
-Page completed as per instructions given. Pending review.
+Page completed as per instructions given. Pending review. <br>
 May be updated with future requests.
 
 # links: <br>
-    *Repo location: https://github.com/SirMikeD/SirMikeD.github.io <br>
-    *Demo link: https://sirmiked.github.io 
+    Repo location: https://github.com/SirMikeD/SirMikeD.github.io <br>
+    Demo link: https://sirmiked.github.io 
 
 # Screenshot <br>
 ![Screenshot of website mockup](./assets/images/Screenshot.png)
