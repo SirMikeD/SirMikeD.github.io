@@ -1,46 +1,46 @@
-##Assignment 1 - Horiseon landing page
+## Assignment 1 - Horiseon landing page
 
-#Description
+# Description
 -This landing page gives Horiseon (Client) a good intro to their website.
 
 
-#Installation
-Add Index.html file to your domain.
-Add assets folder to your domain.
+# Installation
+Add Index.html file to your domain. <br>
+Add assets folder to your domain. <br>
 Ensure Index.html is properly linked to the CSS source file.
 
-#Usage
-Read the content.
+# Usage
+Read the content. <br>
 Click on the nav bar to move to the details of the object clicked.
 
-#Support
-Current known issues:
+# Support
+Current known issues: <br>
  There is only a landing page
  
-#Roadmap
+# Roadmap
 Add functionality and pages.
 
-#Contributing
+# Contributing
 
 
-#Authors and acknowledgment
+# Authors and acknowledgment
 University of Toronto for documentation and pictures provided.
 
-#License
+# License
 Shareware
 
-#Project status
+# Project status
 Page completed as per instructions given. Pending review.
 May be updated with future requests.
 
-#links:
-    *Repo location: https://github.com/SirMikeD/SirMikeD.github.io
-    *Demo link: https://sirmiked.github.io
+# links: <br>
+    *Repo location: https://github.com/SirMikeD/SirMikeD.github.io <br>
+    *Demo link: https://sirmiked.github.io 
 
-#Screenshot
+# Screenshot <br>
 ![Screenshot of website mockup](./assets/images/Screenshot.png)
 
-#Changes
-    1. Condensted Code
-    2. Changed formating
-    3. Deplyed to github.io
+# Changes <br>
+    1. Condensted Code <br>
+    2. Changed formating <br>
+    3. Deplyed to github.io <br>
